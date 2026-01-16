@@ -63,3 +63,8 @@ Feel free to submit issues or pull requests for improvements.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
+
+##screenshots
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/3d9152dd-3686-4e3e-8e83-3fe3edb4f3e6" />
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/f225cca6-fcc3-46ea-83bd-6374f999b765" />
+<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/7a60e2e1-5d2c-48a7-860d-111c2bc4702f" />
